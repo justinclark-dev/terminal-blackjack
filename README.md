@@ -1,4 +1,4 @@
-
+<pre>
  ____    _      ____    ____    _   _        _   ____    ____    _   _
 |  _ \  | |    /  _ \  /  _ \  | | / /      | | /  _ \  /  _ \  | | / /
 | | \ | | |    | | | | | | \_\ | |/ /       | | | | | | | | \_\ | |/ /
@@ -13,6 +13,7 @@
                            |   ♠   ||   ♥   |
                            |      A||     10|
                            '-------''-------'
+</pre>
 
 # READ ME
 
@@ -93,6 +94,8 @@ Here was our ChatGPT use:
     `
 
   I tried to get ChatGPT to create the word Blackjack in ascii, but didn't like the results.
+
+  <pre>   
        ____  _      _     _      _        _    
       | __ )| | __ | |   | |    (_)  __ _| | __
       |  _ \| |/ / | |   | |    | | / _` | |/ /
@@ -104,8 +107,12 @@ Here was our ChatGPT use:
       BBBB    L     AAAAA  C       KK       J    AAAAA  C       KK  
       B   B   L     A   A  C       K K    J J    A   A  C       K K 
       BBBBB   LLLLL A   A   CCCC   K  K    JJ    A   A   CCCC   K  K
-
+    
+  </pre>
+  
   So I created my own manually:
+
+  <pre>
    ____    _      ____    ____    _   _        _   ____    ____    _   _
   |  _ \  | |    /  _ \  /  _ \  | | / /      | | /  _ \  /  _ \  | | / /
   | | \ | | |    | | | | | | \_\ | |/ /       | | | | | | | | \_\ | |/ /
@@ -115,3 +122,4 @@ Here was our ChatGPT use:
   | |_/ | | |___ | | | | | |_/ / | | \ \ \ \__/ / | | | | | |_/ / | | \ \
   |_____/ |_____||_| |_| \____/  |_|  \_\ \____/  |_| |_| \____/  |_|  \_\
 
+  </pre>
